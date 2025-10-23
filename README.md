@@ -1,4 +1,17 @@
-# 👋 Hi, I'm **Mohammad Habib** <p align="center"> <a href="https://github.com/Mohamed-habib2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamed-habib-67560b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://protfolio-habib.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+# 👋 Hi, I'm **Mohammad Habib**
+
+<p align="center">
+  <a href="https://github.com/Mohamed-habib2025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-habib-67560b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://protfolio-habib.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 💻 **Frontend Developer** | ⚛️ React & Next.js Enthusiast | 🎨 UI/UX Lover  
@@ -9,6 +22,7 @@
 ---
 
 ## 🌟 About Me  
+
 - 🧠 Passionate about **Frontend Development** and **Modern Web Design**  
 - ⚛️ Experienced in **React.js**, **Next.js**, **Tailwind CSS**, and **Vite**  
 - 🌐 Built projects like **E-commerce**, **Admin Dashboard**, **Portfolio**, and **Online Blood Bank**  
@@ -41,41 +55,25 @@
 ---
 
 ## 🔥 Currently Working On  
+
 - 🎓 **Graduation Project:** Online Blood Bank App (React + Tailwind + API + Redux)  
 - 💼 **Portfolio Website:** Built with **Next.js** and **TailwindCSS**  
 - ✨ Learning and applying **Framer Motion** for smooth UI animations  
 
 ---
 
-## ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-habib2025&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-habib2025&theme=tokyonight&hide_border=false" height="165" />
-</p>
+## ✨ Animated Typing Section  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-habib2025&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🧠 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-habib2025&theme=tokyo-night" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C7B7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Lover;Building+Modern+Web+Apps+With+Style!" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 💻 Fun Coding GIF  
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
-
----
-
-## 🧮 Visitor Counter  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Mohamed-habib2025}/count.svg" />
 </p>
 
 ---
