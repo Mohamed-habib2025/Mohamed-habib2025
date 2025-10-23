@@ -1,13 +1,13 @@
 # 👋 Hi, I'm **Mohammad Habib**  
 
 <p align="center">
-  <a href="[https://github.com/MuhammadHabib](https://github.com/Mohamed-habib2025)" target="_blank">
+  <a href="https://github.com/Mohamed-habib2025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/muhammad-habib/](https://www.linkedin.com/in/mohamed-habib-67560b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-habib-67560b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://muhammadhabib.dev](https://protfolio-habib.netlify.app)" target="_blank">
+  <a href="https://protfolio-habib.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
