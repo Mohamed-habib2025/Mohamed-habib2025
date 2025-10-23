@@ -1,28 +1,4 @@
-<!-- 👋 Header with animation -->
-<h1 align="center">Hi there, I'm <span style="color:#0ab9e6;">Mohammad Habib</span> 👋</h1>
-
-<!-- 🧠 Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AB9E6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Designer;Creative+Web+Developer;Turning+ideas+into+reality!"/>
-  </a>
-</p>
-
----
-
-<!-- 🌐 Social Icons -->
-<p align="center">
-  <a href="https://github.com/Mohamed-habib2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-habib-67560b277" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://protfolio-habib.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
+# 👋 Hi, I'm **Mohammad Habib** <p align="center"> <a href="https://github.com/Mohamed-habib2025" target="_blank"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/mohamed-habib-67560b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://protfolio-habib.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 ---
 
 💻 **Frontend Developer** | ⚛️ React & Next.js Enthusiast | 🎨 UI/UX Lover  
