@@ -1,10 +1,23 @@
-# 👋 Hi, I'm **Mohammad Habib**  
+<!-- 👋 Header with animation -->
+<h1 align="center">
+  Hi there, I'm <span style="color:#0ab9e6;">Mohammad Habib</span> 👋  
+</h1>
 
+<!-- 🔥 Animated Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Designer;Creative+Web+Developer;Turning+ideas+into+reality!"/>
+  </a>
+</p>
+
+---
+
+<!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://github.com/Mohamed-habib2025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-habib-67560b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-habib-67560b277" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://protfolio-habib.netlify.app" target="_blank">
@@ -33,23 +46,23 @@
 ## 🛠️ My Tech Stack  
 
 ### 🧱 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
 ### ⚙️ Tools & Workflow  
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
 
 ---
 
@@ -60,4 +73,31 @@
 
 ---
 
-💬 “Turning ideas into pixel-perfect, user-friendly web experiences.”  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-habib2025&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-habib2025&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-habib2025&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-habib2025&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧮 Visitor Counter
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Mohamed-habib2025}/count.svg" />
+</p>
+
+---
+
+💬 *“Turning ideas into pixel-perfect, user-friendly web experiences.”*  
