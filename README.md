@@ -16,7 +16,7 @@
 ## 🌟 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲  
 - 🧠 Passionate about **Frontend Development** and **Modern Web Design**  
 - ⚛️ Experienced in **React.js**, **Next.js**, **Tailwind CSS**, and **Vite**  
-- 🌐 Built projects like **E-commerce**, **Movie App**, **Portfolio**, and **Online Blood Bank**  
+- 🌐 Built projects like **E-commerce**, **Admin-Dashboard**, **Portfolio**, and **Online Blood Bank**  
 - 🧩 Interested in **state management** using **Redux Toolkit** and **Context API**  
 - 💡 Constantly improving UI design and exploring creative animations  
 
@@ -47,8 +47,8 @@
 
 ## 🔥 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻  
 - 🎓 **Graduation Project:** Online Blood Bank App (React + Tailwind + API + Redux)  
-- 💼 **Portfolio Website:** Built with Next.js and TailwindCSS  
-- ✨ Learning and applying **Framer Motion** for smooth UI animations  
+- 💼 **Portfolio Website:** Built with React.js and TailwindCSS  
+- ✨ Learning and applying **Framer Motion** for smooth UI animations 
 
 ---
 
