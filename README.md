@@ -1,4 +1,4 @@
-# 👋 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Muhammad Habib  
+# 👋 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Mohammad Habib  
 
 [![](https://img.shields.io/badge/-@muhammadhabib-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/)
 [![](https://img.shields.io/badge/-@MuhammadHabib-%23181717?style=flat-square&logo=github)](https://github.com/MuhammadHabib)
@@ -29,10 +29,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
 ### ⚙️ Tools & Workflow  
