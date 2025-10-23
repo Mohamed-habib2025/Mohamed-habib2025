@@ -52,11 +52,4 @@
 
 ---
 
-## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀  
-
-![MuhammadHabib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHabib&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHabib&layout=compact&theme=dracula)
-
----
-
 💬 “Turning ideas into pixel-perfect, user-friendly web experiences.”  
