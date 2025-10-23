@@ -1,18 +1,16 @@
 <!-- 👋 Header with animation -->
-<h1 align="center">
-  Hi there, I'm <span style="color:#0ab9e6;">Mohammad Habib</span> 👋  
-</h1>
+<h1 align="center">Hi there, I'm <span style="color:#0ab9e6;">Mohammad Habib</span> 👋</h1>
 
-<!-- 🔥 Animated Typing -->
+<!-- 🧠 Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Designer;Creative+Web+Developer;Turning+ideas+into+reality!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AB9E6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;UI%2FUX+Designer;Creative+Web+Developer;Turning+ideas+into+reality!"/>
   </a>
 </p>
 
 ---
 
-<!-- 🌐 Social Links -->
+<!-- 🌐 Social Icons -->
 <p align="center">
   <a href="https://github.com/Mohamed-habib2025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -73,27 +71,33 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## ⚡ GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-habib2025&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-habib2025&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-habib2025&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-habib2025&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-habib2025&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-habib2025&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🧠 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-habib2025&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🧮 Visitor Counter
+## 💻 Fun Coding GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
+---
+
+## 🧮 Visitor Counter  
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Mohamed-habib2025}/count.svg" />
 </p>
